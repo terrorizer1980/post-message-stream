@@ -30,7 +30,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "readable-stream": "2.3.3"
+    "readable-stream": "2.3.7"
   },
   "devDependencies": {
     "@jest-runner/electron": "^3.0.1",
